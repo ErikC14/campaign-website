@@ -1,0 +1,30 @@
+.NAME{
+    color:blue;
+    display:flex;
+    justify-content:center;
+}
+.image1{
+    display:flex;
+    justify-content:space-between;
+    border:blue solid 10px;
+    margin:10px;
+    Border:solid blue 5px;
+    background-color:black;
+}
+.content{
+    color:red;
+}
+h1{
+    display:flex;
+    justify-content:center;
+    color:blue;
+    Font-size:50px;
+}
+.image2{
+    height:500px;
+    width:600px;
+}
+.div6{
+    display:flex;
+    justify-content:flex-end;    
+}
